@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ewen&#39;s thoughts</title>
-    <link>https://notes.corre.bio/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Ewen&#39;s thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://notes.corre.bio/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First</title>
-      <link>https://notes.corre.bio/tags/first/</link>
+      <link>/tags/first/</link>
       <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://notes.corre.bio/tags/first/</guid>
+      <guid>/tags/first/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New</title>
-      <link>https://notes.corre.bio/tags/new/</link>
+      <link>/tags/new/</link>
       <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://notes.corre.bio/tags/new/</guid>
+      <guid>/tags/new/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Notes</title>
-      <link>https://notes.corre.bio/tags/notes/</link>
+      <link>/tags/notes/</link>
       <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://notes.corre.bio/tags/notes/</guid>
+      <guid>/tags/notes/</guid>
       <description></description>
     </item>
     
