@@ -2,23 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ewen&#39;s thoughts</title>
-    <link>/</link>
+    <link>https://notes.corre.bio/</link>
     <description>Recent content on Ewen&#39;s thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Mar 2019 18:50:51 -0100</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://notes.corre.bio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>/about/</link>
-      <pubDate>Mon, 18 Mar 2019 18:50:51 -0100</pubDate>
+      <link>https://notes.corre.bio/about/</link>
+      <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://notes.corre.bio/about/</guid>
       <description>This small static website (built with blogdown and hugo) is a simple collection of ideas I (Ewen Corre) have. The idea followed the visit of a very similar website of the same type, created by Roel Hogervorst. As far as I know, he didn&amp;rsquo;t invent the concept either, he did the same as Sean Kross.
 I hope this experiment will be funny and useful!</description>
+    </item>
+    
+    <item>
+      <title>First thought</title>
+      <link>https://notes.corre.bio/2019/03/18/first-thought/</link>
+      <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.corre.bio/2019/03/18/first-thought/</guid>
+      <description>With this short note I start my *dump of thoughts&amp;rdquo;, like Dumbledore&amp;rsquo;s Pensine.
+See About page for more info.</description>
     </item>
     
   </channel>
