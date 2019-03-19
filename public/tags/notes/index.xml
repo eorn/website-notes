@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notes on Ewen&#39;s thoughts</title>
-    <link>https://notes.corre.bio/tags/notes/</link>
+    <link>/tags/notes/</link>
     <description>Recent content in Notes on Ewen&#39;s thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://notes.corre.bio/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/notes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First thought</title>
-      <link>https://notes.corre.bio/2019/03/18/first-thought/</link>
+      <link>/2019/03/18/first-thought/</link>
       <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://notes.corre.bio/2019/03/18/first-thought/</guid>
+      <guid>/2019/03/18/first-thought/</guid>
       <description>With this short note I start my *dump of thoughts&amp;rdquo;, like Dumbledore&amp;rsquo;s Pensine.
 See About page for more info.</description>
     </item>
