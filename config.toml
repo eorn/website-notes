@@ -1,5 +1,6 @@
 baseurl = "https://notes.corre.bio"
 languageCode = "en-us"
+author = "Ewen Corre"
 title = "Ewen's thoughts"
 theme = "hugo-tanka"
 googleAnalytics = ""
@@ -12,14 +13,22 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
     name = "Home"
     url = "/"
+    weight = 1
 [[menu.main]]
     name = "About"
     url = "/about/"
+    weight = 5
 [[menu.main]]
-    name = "Main blog"
+    name = "RSS"
+    url = "/index.xml"
+    weight = 8
+[[menu.main]]
+    name = "Main blog →"
     url = "https://ewen.corre.bio"
+    weight = 10
 
 [params]
+    sitename = "Ewen's thoughts"
     description = "A collection of Ewen's thoughts"
 
     # options for highlight.js (version, additional languages, and theme)
@@ -31,12 +40,4 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
     MathJaxVersion = "2.7.5"
 
-    # path to the favicon, under "static"
-    favicon = "favicon.ico"
-
-    [params.logo]
-    url = "logo.png"
-    width = 50
-    height = 50
-    alt = "Logo"
 

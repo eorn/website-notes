@@ -4,10 +4,7 @@
   <ul class=posts_listing>
     {{ range .Data.Pages.ByDate.Reverse }}
       <li>
-        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-        <div id=date>
-          <time>{{ .Date.Format (.Site.Params.dateform | default "2006/01/02") }}</time>
-        </div>
+        <time>{{ .Date.Format (.Site.Params.dateform | default "2006-01-02") }}</time> <a href="{{ .Permalink }}">{{ .Title }}</a>
       </li>
     {{ end }}
   </ul>
