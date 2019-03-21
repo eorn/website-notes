@@ -1,6 +1,6 @@
 ---
 title: Website with Blogdown, Hugo, Git(hub) and Travis
-author: ~
+author: 'Ewen'
 date: '2019-03-19'
 slug: website-with-blogdown-hugo-git-hub-and-travis
 categories: []

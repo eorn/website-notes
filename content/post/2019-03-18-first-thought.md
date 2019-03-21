@@ -1,6 +1,6 @@
 ---
 title: First thought
-author: ~
+author: 'Ewen'
 date: '2019-03-18'
 slug: first-thought
 categories: []
