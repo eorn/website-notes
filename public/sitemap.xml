@@ -3,81 +3,104 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/2019/03/19/website-with-blogdown-hugo-git-hub-and-travis/</loc>
+    <loc>https://notes.corre.bio/2019/03/21/phone-app-to-record-usage/</loc>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://notes.corre.bio/2019/03/19/website-with-blogdown-hugo-git-hub-and-travis/</loc>
     <lastmod>2019-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://notes.corre.bio/about/</loc>
     <lastmod>2019-03-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2019/03/18/first-thought/</loc>
+    <loc>https://notes.corre.bio/2019/03/18/first-thought/</loc>
     <lastmod>2019-03-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://notes.corre.bio/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
+    <loc>https://notes.corre.bio/tags/code/</loc>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/first/</loc>
-    <lastmod>2019-03-18T00:00:00+00:00</lastmod>
+    <loc>https://notes.corre.bio/</loc>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/github/</loc>
-    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/hugo/</loc>
-    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/new/</loc>
+    <loc>https://notes.corre.bio/tags/first/</loc>
     <lastmod>2019-03-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/notes/</loc>
-    <lastmod>2019-03-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
+    <loc>https://notes.corre.bio/tags/github/</loc>
     <lastmod>2019-03-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-03-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/travis/</loc>
+    <loc>https://notes.corre.bio/tags/hugo/</loc>
     <lastmod>2019-03-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/website/</loc>
+    <loc>https://notes.corre.bio/tags/new/</loc>
+    <lastmod>2019-03-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://notes.corre.bio/tags/notes/</loc>
+    <lastmod>2019-03-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://notes.corre.bio/tags/phone/</loc>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://notes.corre.bio/post/</loc>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://notes.corre.bio/tags/</loc>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://notes.corre.bio/tags/todo/</loc>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://notes.corre.bio/tags/travis/</loc>
+    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://notes.corre.bio/tags/website/</loc>
     <lastmod>2019-03-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
