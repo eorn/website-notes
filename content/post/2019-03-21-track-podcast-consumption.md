@@ -4,7 +4,7 @@ author: ~
 date: '2019-03-21'
 slug: track-podcast-consumption
 categories: []
-tags: []
+tags: [todo,phone,podcast,code]
 ---
 
 An idea, following the [previous one](/2019/03/21/phone-app-to-record-usage/): tracking my podcast consumption.
