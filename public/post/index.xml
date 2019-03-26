@@ -2,51 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Ewen&#39;s thoughts</title>
-    <link>https://notes.corre.bio/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on Ewen&#39;s thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://notes.corre.bio/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>The beautiful walk</title>
+      <link>/2019/03/26/the-beautiful-walk/</link>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/03/26/the-beautiful-walk/</guid>
+      <description>I&amp;rsquo;m following an influencer (gosh, I&amp;rsquo;m so mainstream). This influencer is @FibreTigre. He developped a game called The beautiful Walk
+Basically this is a platform that collects the km you walk or run (through applications like Strava), and makes your avatar walk around the world.
+I started this week and I&amp;rsquo;m at km 32. My avatar left from Paris, and now I&amp;rsquo;m at &amp;ldquo;Forêt domaniale d&amp;rsquo;Armainvilliers&amp;rdquo;. Many adventures are yet to come!</description>
+    </item>
+    
+    <item>
       <title>Phone app to record usage</title>
-      <link>https://notes.corre.bio/2019/03/21/phone-app-to-record-usage/</link>
+      <link>/2019/03/21/phone-app-to-record-usage/</link>
       <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://notes.corre.bio/2019/03/21/phone-app-to-record-usage/</guid>
+      <guid>/2019/03/21/phone-app-to-record-usage/</guid>
       <description>Following an idea from there, I&amp;rsquo;d like to write a small phone app to record my daily phone usage:
  number of times I switch the screen on number of apps used and their usage time &amp;hellip;  Ideally I would export all of that in a CSV file, and create some R scripts to plot all this (big) data.</description>
     </item>
     
     <item>
       <title>Track podcast consumption</title>
-      <link>https://notes.corre.bio/2019/03/21/track-podcast-consumption/</link>
+      <link>/2019/03/21/track-podcast-consumption/</link>
       <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://notes.corre.bio/2019/03/21/track-podcast-consumption/</guid>
+      <guid>/2019/03/21/track-podcast-consumption/</guid>
       <description>An idea, following the previous one: tracking my podcast consumption.
 I&amp;rsquo;m already using the one of PodcastAddict, but this is not detailed enough.</description>
     </item>
     
     <item>
       <title>Website with Blogdown, Hugo, Git(hub) and Travis</title>
-      <link>https://notes.corre.bio/2019/03/19/website-with-blogdown-hugo-git-hub-and-travis/</link>
+      <link>/2019/03/19/website-with-blogdown-hugo-git-hub-and-travis/</link>
       <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://notes.corre.bio/2019/03/19/website-with-blogdown-hugo-git-hub-and-travis/</guid>
+      <guid>/2019/03/19/website-with-blogdown-hugo-git-hub-and-travis/</guid>
       <description>I&amp;rsquo;m involved in a team organizing/stimulating technical workshops in the Marine Station of Roscoff, the so-called RUB (Roscoff Unseminars in Bio*).
 We needed a support to exist online, and to share resources, as well as to collectively prepare the workshops. I got very inspired by the InSileco website, that makes use of Blogdown+Hugo, GitHub and Travis-CI. They even have a blog post on how to build such website. I hereby greatly thank them for the resources they shared.</description>
     </item>
     
     <item>
       <title>First thought</title>
-      <link>https://notes.corre.bio/2019/03/18/first-thought/</link>
+      <link>/2019/03/18/first-thought/</link>
       <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://notes.corre.bio/2019/03/18/first-thought/</guid>
+      <guid>/2019/03/18/first-thought/</guid>
       <description>With this short note I start my *dump of thoughts&amp;rdquo;, like Dumbledore&amp;rsquo;s Pensine.
 See About page for more info.</description>
     </item>
