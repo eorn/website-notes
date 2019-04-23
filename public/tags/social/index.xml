@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social on Ewen&#39;s thoughts</title>
+    <link>https://notes.corre.bio/tags/social/</link>
+    <description>Recent content in Social on Ewen&#39;s thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://notes.corre.bio/tags/social/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>In love with the Fediverse</title>
+      <link>https://notes.corre.bio/2019/04/23/in-love-with-the-fediverse/</link>
+      <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.corre.bio/2019/04/23/in-love-with-the-fediverse/</guid>
+      <description>I&amp;rsquo;ve been aware of the Fediverse for some time already. Basically this is a &amp;ldquo;Federated Universe&amp;rdquo; of different social networks, based on open protocols. You might have heard of Mastodon for example.
+Well, after reading an article about it (French version - Italian original version), I want to get involved in it.
+This summer I&amp;rsquo;m planning on building a new hardware server, and I&amp;rsquo;ll try to set up instances of Mastodon, PeerTube and FunkWhale.</description>
+    </item>
+    
+  </channel>
+</rss>

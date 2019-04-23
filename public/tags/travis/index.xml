@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Travis on Ewen&#39;s thoughts</title>
-    <link>/tags/travis/</link>
+    <link>https://notes.corre.bio/tags/travis/</link>
     <description>Recent content in Travis on Ewen&#39;s thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 19 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/travis/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://notes.corre.bio/tags/travis/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Website with Blogdown, Hugo, Git(hub) and Travis</title>
-      <link>/2019/03/19/website-with-blogdown-hugo-git-hub-and-travis/</link>
+      <link>https://notes.corre.bio/2019/03/19/website-with-blogdown-hugo-git-hub-and-travis/</link>
       <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/03/19/website-with-blogdown-hugo-git-hub-and-travis/</guid>
+      <guid>https://notes.corre.bio/2019/03/19/website-with-blogdown-hugo-git-hub-and-travis/</guid>
       <description>I&amp;rsquo;m involved in a team organizing/stimulating technical workshops in the Marine Station of Roscoff, the so-called RUB (Roscoff Unseminars in Bio*).
 We needed a support to exist online, and to share resources, as well as to collectively prepare the workshops. I got very inspired by the InSileco website, that makes use of Blogdown+Hugo, GitHub and Travis-CI. They even have a blog post on how to build such website. I hereby greatly thank them for the resources they shared.</description>
     </item>

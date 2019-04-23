@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Podcast on Ewen&#39;s thoughts</title>
-    <link>/tags/podcast/</link>
+    <link>https://notes.corre.bio/tags/podcast/</link>
     <description>Recent content in Podcast on Ewen&#39;s thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 21 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/podcast/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://notes.corre.bio/tags/podcast/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Track podcast consumption</title>
-      <link>/2019/03/21/track-podcast-consumption/</link>
+      <link>https://notes.corre.bio/2019/03/21/track-podcast-consumption/</link>
       <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/03/21/track-podcast-consumption/</guid>
+      <guid>https://notes.corre.bio/2019/03/21/track-podcast-consumption/</guid>
       <description>An idea, following the previous one: tracking my podcast consumption.
 I&amp;rsquo;m already using the one of PodcastAddict, but this is not detailed enough.</description>
     </item>
