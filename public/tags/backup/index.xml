@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>backup on Ewen&#39;s thoughts</title>
+    <link>https://notes.corre.bio/tags/backup/</link>
+    <description>Recent content in backup on Ewen&#39;s thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://notes.corre.bio/tags/backup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Automate backup process for some files in LineageOS</title>
+      <link>https://notes.corre.bio/2019/05/03/automate-backup-process-for-some-files-in-lineageos/</link>
+      <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.corre.bio/2019/05/03/automate-backup-process-for-some-files-in-lineageos/</guid>
+      <description>So I recently re-switched to LineageOS for my phone OS. And unfortunately, I forgot to backup my Goodtime data.
+Therefore, I should find a way to automatize the way backup are saved, for some apps like this one.</description>
+    </item>
+    
+  </channel>
+</rss>

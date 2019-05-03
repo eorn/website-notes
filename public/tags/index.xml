@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Ewen&#39;s thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://notes.corre.bio/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>backup</title>
+      <link>https://notes.corre.bio/tags/backup/</link>
+      <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.corre.bio/tags/backup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phone</title>
+      <link>https://notes.corre.bio/tags/phone/</link>
+      <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.corre.bio/tags/phone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>todo</title>
+      <link>https://notes.corre.bio/tags/todo/</link>
+      <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.corre.bio/tags/todo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>bike</title>
@@ -35,15 +62,6 @@
       <pubDate>Thu, 25 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://notes.corre.bio/tags/stickers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>todo</title>
-      <link>https://notes.corre.bio/tags/todo/</link>
-      <pubDate>Thu, 25 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://notes.corre.bio/tags/todo/</guid>
       <description></description>
     </item>
     
@@ -107,15 +125,6 @@
       <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://notes.corre.bio/tags/code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>phone</title>
-      <link>https://notes.corre.bio/tags/phone/</link>
-      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://notes.corre.bio/tags/phone/</guid>
       <description></description>
     </item>
     
