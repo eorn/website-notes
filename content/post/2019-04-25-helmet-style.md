@@ -4,7 +4,7 @@ author: Ewen
 date: '2019-04-25'
 slug: helmet-style
 categories: []
-tags: [bike,helmet,stickers]
+tags: [bike,helmet,stickers,todo]
 ---
 
 I recently stumbled uppon a nice idea to get a cool biking helmet:

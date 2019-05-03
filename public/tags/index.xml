@@ -6,22 +6,13 @@
     <description>Recent content in Tags on Ewen&#39;s thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://notes.corre.bio/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>App</title>
-      <link>https://notes.corre.bio/tags/app/</link>
-      <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://notes.corre.bio/tags/app/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bike</title>
+      <title>bike</title>
       <link>https://notes.corre.bio/tags/bike/</link>
       <pubDate>Thu, 25 Apr 2019 00:00:00 +0000</pubDate>
       
@@ -30,43 +21,7 @@
     </item>
     
     <item>
-      <title>Code</title>
-      <link>https://notes.corre.bio/tags/code/</link>
-      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://notes.corre.bio/tags/code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fediverse</title>
-      <link>https://notes.corre.bio/tags/fediverse/</link>
-      <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://notes.corre.bio/tags/fediverse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>First</title>
-      <link>https://notes.corre.bio/tags/first/</link>
-      <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://notes.corre.bio/tags/first/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Github</title>
-      <link>https://notes.corre.bio/tags/github/</link>
-      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://notes.corre.bio/tags/github/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Helmet</title>
+      <title>helmet</title>
       <link>https://notes.corre.bio/tags/helmet/</link>
       <pubDate>Thu, 25 Apr 2019 00:00:00 +0000</pubDate>
       
@@ -75,88 +30,7 @@
     </item>
     
     <item>
-      <title>Hugo</title>
-      <link>https://notes.corre.bio/tags/hugo/</link>
-      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://notes.corre.bio/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>New</title>
-      <link>https://notes.corre.bio/tags/new/</link>
-      <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://notes.corre.bio/tags/new/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Notes</title>
-      <link>https://notes.corre.bio/tags/notes/</link>
-      <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://notes.corre.bio/tags/notes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Phone</title>
-      <link>https://notes.corre.bio/tags/phone/</link>
-      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://notes.corre.bio/tags/phone/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Podcast</title>
-      <link>https://notes.corre.bio/tags/podcast/</link>
-      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://notes.corre.bio/tags/podcast/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Poetry</title>
-      <link>https://notes.corre.bio/tags/poetry/</link>
-      <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://notes.corre.bio/tags/poetry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Running</title>
-      <link>https://notes.corre.bio/tags/running/</link>
-      <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://notes.corre.bio/tags/running/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Server</title>
-      <link>https://notes.corre.bio/tags/server/</link>
-      <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://notes.corre.bio/tags/server/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Social</title>
-      <link>https://notes.corre.bio/tags/social/</link>
-      <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://notes.corre.bio/tags/social/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stickers</title>
+      <title>stickers</title>
       <link>https://notes.corre.bio/tags/stickers/</link>
       <pubDate>Thu, 25 Apr 2019 00:00:00 +0000</pubDate>
       
@@ -165,16 +39,115 @@
     </item>
     
     <item>
-      <title>Todo</title>
+      <title>todo</title>
       <link>https://notes.corre.bio/tags/todo/</link>
-      <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 25 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://notes.corre.bio/tags/todo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Travis</title>
+      <title>fediverse</title>
+      <link>https://notes.corre.bio/tags/fediverse/</link>
+      <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.corre.bio/tags/fediverse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>server</title>
+      <link>https://notes.corre.bio/tags/server/</link>
+      <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.corre.bio/tags/server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social</title>
+      <link>https://notes.corre.bio/tags/social/</link>
+      <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.corre.bio/tags/social/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>app</title>
+      <link>https://notes.corre.bio/tags/app/</link>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.corre.bio/tags/app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>poetry</title>
+      <link>https://notes.corre.bio/tags/poetry/</link>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.corre.bio/tags/poetry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>running</title>
+      <link>https://notes.corre.bio/tags/running/</link>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.corre.bio/tags/running/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>code</title>
+      <link>https://notes.corre.bio/tags/code/</link>
+      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.corre.bio/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phone</title>
+      <link>https://notes.corre.bio/tags/phone/</link>
+      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.corre.bio/tags/phone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>podcast</title>
+      <link>https://notes.corre.bio/tags/podcast/</link>
+      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.corre.bio/tags/podcast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github</title>
+      <link>https://notes.corre.bio/tags/github/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.corre.bio/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://notes.corre.bio/tags/hugo/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.corre.bio/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>travis</title>
       <link>https://notes.corre.bio/tags/travis/</link>
       <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -183,11 +156,38 @@
     </item>
     
     <item>
-      <title>Website</title>
+      <title>website</title>
       <link>https://notes.corre.bio/tags/website/</link>
       <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://notes.corre.bio/tags/website/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>https://notes.corre.bio/tags/first/</link>
+      <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.corre.bio/tags/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>new</title>
+      <link>https://notes.corre.bio/tags/new/</link>
+      <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.corre.bio/tags/new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>notes</title>
+      <link>https://notes.corre.bio/tags/notes/</link>
+      <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.corre.bio/tags/notes/</guid>
       <description></description>
     </item>
     
