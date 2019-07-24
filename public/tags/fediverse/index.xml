@@ -6,10 +6,22 @@
     <description>Recent content in fediverse on Ewen&#39;s thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://notes.corre.bio/tags/fediverse/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OpenSource federated alternative to Strava</title>
+      <link>https://notes.corre.bio/2019/07/24/opensource-federated-alternative-to-strava/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.corre.bio/2019/07/24/opensource-federated-alternative-to-strava/</guid>
+      <description>Long time no see.
+I&amp;rsquo;m planning to rebuild a new server, it&amp;rsquo;s gonna be really nice I&amp;rsquo;m excited about it.
+Meanwhile, another project that would be interesting to do, in the long-term since I don&amp;rsquo;t have the skillz now: a federated open-source alternative to Strava. I like running and like to have stats about myself, and the social part of Strava is nice too.
+I&amp;rsquo;ve ran into this project: PikaTrack which seems already pretty nice.</description>
+    </item>
     
     <item>
       <title>In love with the Fediverse</title>

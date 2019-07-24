@@ -6,10 +6,46 @@
     <description>Recent content in Tags on Ewen&#39;s thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://notes.corre.bio/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>fediverse</title>
+      <link>https://notes.corre.bio/tags/fediverse/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.corre.bio/tags/fediverse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>server</title>
+      <link>https://notes.corre.bio/tags/server/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.corre.bio/tags/server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social</title>
+      <link>https://notes.corre.bio/tags/social/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.corre.bio/tags/social/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>todo</title>
+      <link>https://notes.corre.bio/tags/todo/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.corre.bio/tags/todo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>backup</title>
@@ -26,15 +62,6 @@
       <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://notes.corre.bio/tags/phone/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>todo</title>
-      <link>https://notes.corre.bio/tags/todo/</link>
-      <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://notes.corre.bio/tags/todo/</guid>
       <description></description>
     </item>
     
@@ -62,33 +89,6 @@
       <pubDate>Thu, 25 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://notes.corre.bio/tags/stickers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>fediverse</title>
-      <link>https://notes.corre.bio/tags/fediverse/</link>
-      <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://notes.corre.bio/tags/fediverse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>server</title>
-      <link>https://notes.corre.bio/tags/server/</link>
-      <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://notes.corre.bio/tags/server/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>social</title>
-      <link>https://notes.corre.bio/tags/social/</link>
-      <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://notes.corre.bio/tags/social/</guid>
       <description></description>
     </item>
     
